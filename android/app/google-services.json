@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85540591067",
+    "project_id": "talk-to-3b621",
+    "storage_bucket": "talk-to-3b621.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85540591067:android:e23a06e2d797b0b2fec3fe",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85540591067-0ni5cirkiu8g4qv5uua2fspr01615in5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClECdNnrohgrwDJ8FrmNlRgxH2ON60N0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85540591067-0ni5cirkiu8g4qv5uua2fspr01615in5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
