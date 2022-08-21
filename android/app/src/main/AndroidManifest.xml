@@ -7,7 +7,7 @@
         android:usesCleartextTraffic="true"
         >
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyClECdNnrohgrwDJ8FrmNlRgxH2ON60N0Q"/>
+               android:value="Your API KEY"/>
         <activity
         android:showWhenLocked="true"
     android:turnScreenOn="true"
